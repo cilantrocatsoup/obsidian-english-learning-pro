@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.js
+!main.js
+!esbuild.config.mjs
+.DS_Store
+.obsidian/
+.trash/
+.DS_Store
+.parcel-cache/
