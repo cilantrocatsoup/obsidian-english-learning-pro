@@ -1,39 +1,33 @@
 # Obsidian English Learning Pro (专业版英语学习插件)
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Version](https://img.shields.io/badge/version-2.0.0-green.svg)
+![Language](https://img.shields.io/badge/language-Chinese%20Friendly-red.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Version](https://img.shields.io/badge/version-2.0.0-green.svg)
 
-> **A premium English learning companion for Obsidian users.**  
-> **专为 Obsidian 用户打造的沉浸式英语学习助手。**
+> **The ultimate English learning tool designed specifically for Chinese native speakers.**  
+> **专为中文母语者量身打造的 Obsidian 英语学习神器。此插件致力于解决“读懂英文笔记”的最后一步障碍，提供最符合国人习惯的英汉双语释义。**
 
-This plugin transforms your Obsidian notes into an interactive English learning environment. It intelligently highlights advanced vocabulary and provides instant, authoritative definitions from the Youdao Dictionary (有道词典) with a single click.
-
-本插件将您的 Obsidian 笔记转化为交互式英语学习环境。它能智能识别高阶词汇，并提供“点击即查”的权威有道词典释义，配合精美的玻璃拟态 UI，让阅读成为享受。
+This plugin transforms your Obsidian notes into an interactive English learning environment. It acts as a bridge between English content and Chinese understanding, providing instant, context-aware translations.
 
 ---
 
 ## ✨ Features (核心亮点)
 
-### 1. 🖱️ Smart Click-to-Lookup (一键智能查词)
-- **Interaction Revolution**: forget about selecting text. Just **click** any word to detect it instantly.
-- **Smart Highlighting**: Automatically highlights advanced vocabulary (excluding 3000+ common words like `the`, `is`, `platforms`) to focus your attention alongside the built-in "Gaokao" core vocabulary list.
-- **Visual Feedback**: Subtle hover effects and physical press feedback make interactions feel alive.
-- **交互革命**：无需繁琐的鼠标选词。点击文档中的任意单词即可查询。
-- **智能高亮**：自动过滤 3000+ 基础词汇（如小学/初中词汇），利用“高考核心词库”只为您高亮真正的生词。
-- **视觉反馈**：悬停微光、点击压感，提供极致的交互体验。
+### 1. 🇨🇳 English-Chinese Translation (精准英汉双解)
+- **Tailored for Chinese Users**: Uses the **Youdao (有道)** dictionary, the most trusted source for Chinese learners, to provide definitions that make sense in a Chinese context.
+- **Bilingual Immersion**: Displays **English-Chinese bilingual examples** (双语例句) to help you understand usage in context.
+- **专为国人优化**：核心接入**有道英汉大词典**，提供最符合中文母语者思维的精准释义，绝非生硬机翻。
+- **双语沉浸体验**：不仅有单词释义，更提供丰富的**中英对照例句**，助您在场景中透彻理解单词。
 
-### 2. 📖 Professional Definition & Pronunciation (权威释义与发音)
-- **Official Youdao API**: Directly connects to Youdao's official mobile API for stable, high-quality, human-verified definitions.
-- **Rich Content**: Displays part of speech (n./v./adj.), bilingual examples, and phonetic symbols.
-- **Native Pronunciation**: Click the speaker icon to hear authentic British/American pronunciation.
-- **有道官方接口**：直连有道移动端接口，告别机翻，获取权威、准确的人工审核释义。
-- **丰富内容**：完美展示词性、双语例句及音标。
-- **真人发音**：点击喇叭即可播放纯正的原声发音。
+### 2. 🖱️ Smart Click-to-Lookup (一键智能查词)
+- **Interaction Revolution**: Forget about selecting text. Just **click** any word to detect it instantly.
+- **Smart Highlighting**: Automatically filters out simple words (like `the`, `is`) based on the "Gaokao" (College Entrance Exam) vocabulary list, highlighting only the words you likely need to learn.
+- **交互革命**：无需繁琐选词，点击任意单词即刻弹出释义。
+- **智能生词本**：内置**高考/四六级核心词库**过滤逻辑，自动高亮难词，让您的注意力聚焦在真正有价值的“生词”上。
 
-### 3. 💎 Premium Glassmorphism UI (玻璃拟态设计)
-- **Modern Aesthetic**: Features a translucent frosted glass background, soft shadows, and rounded corners.
-- **Dark Mode Support**: Perfectly adapts to Obsidian's light and dark themes.
-- **高级美学**：采用现代化的毛玻璃特效、柔和阴影与圆角设计。
-- **深色模式**：完美适配 Obsidian 的日间与夜间主题。
+### 3. 📖 Native Pronunciation & UI (纯正发音与高级UI)
+- **Real Voice**: One-click access to authentic British/American pronunciation.
+- **Glassmorphism Design**: A premium interface that looks at home in modern operating systems.
+- **真人原声**：一键播放纯正美音/英音，拒绝机械合成音。
+- **玻璃拟态**：精美的磨砂玻璃 UI，完美支持深色模式，提供极致的视觉享受。
 
 ---
 
